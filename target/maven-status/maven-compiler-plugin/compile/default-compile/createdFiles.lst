@@ -1,0 +1,6 @@
+com\pages\InventoryPage.class
+com\pages\LoginPage.class
+com\pages\CheckoutPaymentPage.class
+com\utils\DataGenerator.class
+com\pages\CheckoutPage.class
+com\pages\CheckoutReviewPage.class

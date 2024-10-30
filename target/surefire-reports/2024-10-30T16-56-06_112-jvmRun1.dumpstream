@@ -1,0 +1,13 @@
+# Created at 2024-10-30T16:56:56.671
+Unexpected IOException with stream: out. 30, 2024 4:56:56 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+
+# Created at 2024-10-30T16:57:09.501
+Unexpected IOException: 6,1,com.tests.LoginTest,testLogin(com.tests.LoginTest),null,null,null
+
+
+# Created at 2024-10-30T16:57:09.501
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,com.tests.LoginTest,null,null,null
+
+
