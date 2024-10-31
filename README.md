@@ -62,6 +62,7 @@ public void setUp() throws MalformedURLException {
 ```
 
 Feito a alteração, devemos garantir que o Appium Server está em execução, configurar porta 4723, após isso clicar em startServer:
+
 ![image](https://github.com/user-attachments/assets/be1a4b22-4a9f-4968-a01c-3b239e76fad5)
 
 Com ele em execução devemos ter configurado também um emulador em execução, sugiro utilizar o do Android Studio
